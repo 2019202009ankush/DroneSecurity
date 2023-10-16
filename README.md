@@ -3,6 +3,10 @@
 ![image](https://github.com/2019202009ankush/DroneSecurity/assets/54775848/fb237480-84f1-45b2-9cf4-a7580f908515)
 
 # Registration 
+![image](https://github.com/2019202009ankush/DroneSecurity/assets/54775848/d91f3919-da35-4043-9712-f95c303bc701)
+![image](https://github.com/2019202009ankush/DroneSecurity/assets/54775848/517c564b-c10a-4335-9576-aef5aa391603)
+![image](https://github.com/2019202009ankush/DroneSecurity/assets/54775848/1583e1fe-07f5-44e4-b9d7-bb46c64a308f)
+
 ![image](https://github.com/2019202009ankush/DroneSecurity/assets/54775848/38a8e16f-44ae-4c3e-bb13-2fa330cce4ba)
 
 # Access control 
